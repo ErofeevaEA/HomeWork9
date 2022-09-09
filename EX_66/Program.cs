@@ -20,3 +20,4 @@ class Program
         Console.WriteLine("Сумма: " + s);
     }
 }
+
